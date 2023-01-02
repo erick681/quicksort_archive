@@ -9,3 +9,4 @@ while True:
 end_fill()
 done()
 print("draw")
+print("program started")
